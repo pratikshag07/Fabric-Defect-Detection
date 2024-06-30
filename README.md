@@ -1,5 +1,6 @@
 # Fabric-Defect-Detection
-1. Introduction 
+1. Introduction:
+   
  Fabric production in the textile industry is made using knitting, weaving and nonwoven 
 machines. Due to the fracture, bending, and abrasion on the needle in knitting and weaving 
 machines, many fabric defects occur during production. Fabric defects are traditionally 
@@ -24,7 +25,8 @@ of the fabric image. It is independent of the image orientation. The proposed fe
 method has lower computational cost and works much faster than conventional texture feature 
 extraction methods and provides higher accuracy performance. 
 
-2. Project Objective 
+2. Project Objective:
+    
 In textile industry, fabric defect detection is considered as a challenging task as the quality and 
 the price of any textile product are dependent on the efficiency and effectiveness of the 
 automatic defect detection. Previously, manual human efforts are applied in textile industry to 
@@ -82,7 +84,8 @@ cost and increase productivity. To enhance the quality and to decrease the produ
 the final textile product, it is the current requirement that the inspection process must be done 
 by using some industrial automation.
 
-3. Feasibility Study: 
+3. Feasibility Study:
+   
 A feasibility study for a fabric defect detection project involves assessing various aspects to 
 determine whether the project is viable and worth pursuing. Here's a breakdown of what such 
 a feasibility study might entail: 
@@ -112,7 +115,8 @@ a feasibility study might entail:
   Ensure that the proposed model complies with relevant industry standards, data 
    privacy regulations, and safety requirements. 
 
-4. Methodology/ Planning of work 
+4. Methodology/ Planning of work:
+   
 The preparation of the data set consists of two steps. Defects occupy very little space compared 
 to the overall appearance of the entire fabric. Therefore, the dataset is cropped to reduce and 
 balance the size. In the first step, the defect points were centered and a 100 × 100 pixel window 
@@ -130,7 +134,8 @@ dataset were rotated at random angles. However, in some images of the dataset, t
 small as 1 pixel or no defect is present, which disturbs the balance of the output. When such 
 situations occur in the image, these images are excluded from feature extraction. 
 
-5. Tools/Technology Used: 
+5. Tools/Technology Used:
+   
 5.1 Minimum Hardware Requirements 
 Hardware required for the development of the project. 
  CPU:  A modern multi-core processor (e.g., Intel Core i5 or equivalent) to handle the 
