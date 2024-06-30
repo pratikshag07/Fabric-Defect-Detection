@@ -87,30 +87,30 @@ A feasibility study for a fabric defect detection project involves assessing var
 determine whether the project is viable and worth pursuing. Here's a breakdown of what such 
 a feasibility study might entail: 
  
-3.1 Technical Feasibility: 
-• Assess the available traditional methods for fabric defect detection. This could 
-include image processing algorithms and Deep Learning models. 
-• Determine if the model is mature enough to reliably detect defects in fabrics. 
-• Consider the hardware requirements for implementing the system. 
+ 3.1 Technical Feasibility: 
+ • Assess the available traditional methods for fabric defect detection. This could 
+   include image processing algorithms and Deep Learning models. 
+ • Determine if the model is mature enough to reliably detect defects in fabrics. 
+ • Consider the hardware requirements for implementing the system. 
  
-3.2 Operational Feasibility: 
-• Data Management - Plan for data collection, storage, and preprocessing to ensure 
-data quality and security. 
- Data Processing- Proper Implementation of traditional deep learning techniques. 
- Comparison with Existing Models: Analyze the compatibility of the proposed 
-model with traditional models. 
+ 3.2 Operational Feasibility: 
+ • Data Management - Plan for data collection, storage, and preprocessing to ensure 
+   data quality and security. 
+  Data Processing- Proper Implementation of traditional deep learning techniques. 
+  Comparison with Existing Models: Analyze the compatibility of the proposed 
+ model with traditional models. 
  
-3.3 Economic Feasibility: 
-• Cost Analysis- Estimate the initial development costs, including hardware, 
-software 
+ 3.3 Economic Feasibility: 
+ • Cost Analysis- Estimate the initial development costs, including hardware, 
+   software 
  
-3.4 Legal Feasibility: 
-• Determine if there are any regulatory requirements or standards that the fabric defect 
-detection system must meet. 
-• Assess potential legal issues related to intellectual property and liability. 
- Use of only authorized dataset for fabric defect detection. 
- Ensure that the proposed model complies with relevant industry standards, data 
-privacy regulations, and safety requirements. 
+ 3.4 Legal Feasibility: 
+ • Determine if there are any regulatory requirements or standards that the fabric defect 
+   detection system must meet. 
+ • Assess potential legal issues related to intellectual property and liability. 
+  Use of only authorized dataset for fabric defect detection. 
+  Ensure that the proposed model complies with relevant industry standards, data 
+   privacy regulations, and safety requirements. 
 
 4. Methodology/ Planning of work 
 The preparation of the data set consists of two steps. Defects occupy very little space compared 
